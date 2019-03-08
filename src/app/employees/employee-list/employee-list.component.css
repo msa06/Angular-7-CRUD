@@ -1,0 +1,18 @@
+i{
+  
+  position: relative;
+  top:-3px;
+  visibility: hidden;
+}
+.fa-user-edit{
+  color:#e19c18 ;
+}
+.fa-trash-alt{
+  color: #c73915;
+}
+table tbody tr:hover{
+  cursor: pointer;
+}
+table tr:hover i{
+  visibility:visible;
+}

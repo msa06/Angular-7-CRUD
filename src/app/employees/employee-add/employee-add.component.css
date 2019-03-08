@@ -1,0 +1,10 @@
+input.ng-touched.ng-invalid{
+  border-color: red;
+  border-left-width: 5px;
+  transition: 0.1s all;
+}
+input.ng-dirty{
+  border-color: green;
+  border-left-width: 5px;
+  transition: 0.1s all;
+}
